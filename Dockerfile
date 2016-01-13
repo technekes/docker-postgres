@@ -1,2 +1,2 @@
-FROM mdillon/postgis:9.4
+FROM mdillon/postgis:9.3
 
